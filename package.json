@@ -1,0 +1,23 @@
+{
+  "name": "react-router-prerender-middleware",
+  "version": "0.0.1",
+  "description": "Run code when a route is matched, before rendering its components",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "react-router",
+    "prerender",
+    "pre",
+    "render",
+    "middleware"
+  ],
+  "author": "davnicwil",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "es6-promise": "^4.0.5",
+    "mocha": "^3.2.0"
+  }
+}
